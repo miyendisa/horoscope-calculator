@@ -1,13 +1,12 @@
 # Horoscope Calculator Program
 
-This program calculates the horoscope by taking birth year and birthday
-from the user. 
+This program calculates the horoscope by taking the month 
+of birth and the day of birth from the user. 
 
-* The year of birth must be entered by the user as follows :
+* The month of birth must be entered by the user as follows :
   * 1 for January
   * 2 for February
-  * 3 for March 
-  
+  * 3 for March
 
 **Dates of Horoscopes**
 * Aries : March 21 – April 19
